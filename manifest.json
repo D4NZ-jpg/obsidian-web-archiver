@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
-	"version": "1.0.0",
+	"id": "obsidian-web-archiver",
+	"name": "Web Archiver",
+	"version": "0.1.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Automatically preserve all your vault's links using the Wayback Machine or a custom archiving solution",
+	"author": "D4NZ-jpg",
+	"authorUrl": "https://github.com/D4NZ-jpg",
 	"isDesktopOnly": false
 }

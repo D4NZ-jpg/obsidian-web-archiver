@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
-	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"name": "obsidian-web-archiver",
+	"version": "0.1.0",
+	"description": "Automatically preserve all your vault's links using the Wayback Machine or a custom archiving solution",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
